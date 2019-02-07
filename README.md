@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-rest-geo-location.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-rest-geo-location)
+
 Spring REST Geo Location 
 ----
 
